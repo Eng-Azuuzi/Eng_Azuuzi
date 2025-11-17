@@ -17,7 +17,7 @@ const Projects = () => {
       image: project1,
       tags: ['React', 'Node.js', 'MongoDB', 'Express'],
       github: 'https://github.com',
-      demo: 'https://demo.com',
+      demo: 'https://xaragoe-commercefrontend.vercel.app',
     },
     {
       title: 'DhakhtarGo App',
