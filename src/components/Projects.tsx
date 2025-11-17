@@ -35,7 +35,7 @@ const Projects = () => {
       image: project2,
       tags: ['React', 'Node.js','TypeScript', 'MongoDB','Tailwind'],
       github: 'https://github.com',
-      demo: 'https://vercel.com/eng-azuuzis-projects/prime-vision-media',
+      demo: 'https://prime-vision-media.vercel.app',
     },
   ];
 
