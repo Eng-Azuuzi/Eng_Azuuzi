@@ -66,7 +66,7 @@ const About = () => {
                 darkMode ? 'text-gray-300' : 'text-gray-800'
               }`}
             >
-              I'm a passionate Software Engineer with expertise in full-stack development using the MERN stack.
+              I'm a passionate Software Developer with expertise in full-stack development using the MERN stack.
               With several years of experience building web applications, I specialize in creating robust,
               scalable solutions that solve real-world problems.
             </p>
