@@ -18,6 +18,10 @@ const Hero = () => {
     const element = document.querySelector('#contact');
     if (element) element.scrollIntoView({ behavior: 'smooth' });
   };
+    const scrollToProjects = () => {
+    const element = document.querySelector('#projects');
+    if (element) element.scrollIntoView({ behavior: 'smooth' });
+  };
 
   return (
     <section
@@ -100,6 +104,7 @@ const Hero = () => {
               </Button>
               <Button
                 size="lg"
+                onClick={scrollToProjects}
                 variant="outline"
                 className={`${
                   darkMode
